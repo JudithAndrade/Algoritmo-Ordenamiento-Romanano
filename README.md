@@ -2,7 +2,7 @@
 ``
 ##EJEMPLO DE USO 
 ```
-#Ingrese palabras (escriba 'fin' para terminar):
+Ingrese palabras (escriba 'fin' para terminar):
 Roma
 VIctoria
 FIN
