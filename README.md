@@ -1,5 +1,4 @@
 # Algoritmo-Ordenamiento-Romanano
-``
 ##EJEMPLO DE USO 
 ```
 Ingrese palabras (escriba 'fin' para terminar):
